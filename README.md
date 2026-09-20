@@ -45,5 +45,14 @@ Install Python 3.x and make sure Python is available from the command line.
 
 Install Tesseract OCR and verify that the executable exists at:
 
+### 3. u have to set the .wav sounds to play on diretory
+sounds/
+├── stack.wav
+├── bounty_rune.wav
+├── power_rune.wav
+├── xp_rune.wav
+└── lotus.wav
+i had some but i lost with the time.
+
 ```text
 C:\\Program Files\\Tesseract-OCR\\tesseract.exe
